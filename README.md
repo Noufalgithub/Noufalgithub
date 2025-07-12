@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Noufalgithub/Noufalgithub/main/banner.png" alt="Noufal Ibrahim Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Noufal Ibrahim</h1>
 <h3 align="center">📱 Mobile Developer with 5+ Years of Experience | Flutter Specialist | 🇮🇩 Indonesia</h3>
 
