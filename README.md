@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noufal Ibrahim</h1>
-<h3 align="center">Flutter Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">📱 Mobile Developer with 5+ Years of Experience | Flutter Specialist | 🇮🇩 Indonesia</h3>
 
 <p align="center">
   <a href="https://github.com/Noufalgithub">
@@ -14,10 +14,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I build mobile & web apps using **Flutter** with clean, scalable architecture  
-- 🌱 Currently exploring better UI/UX practices and performance optimizations  
-- 🧰 Experienced in **authentication, REST APIs, local storage, file handling, and more**
-- 📝 Sometimes I share insights on [LinkedIn](https://linkedin.com/in/noufal-ibrahim-93b718147/)
+- 🧑‍💻 **5+ years of experience** building mobile applications (native & Flutter)  
+- 🔭 Currently focused on building clean and scalable Flutter apps  
+- 🚀 Passionate about creating seamless UI/UX and well-architected code  
+- 📲 Experienced in building apps from scratch to production-ready  
+- 📝 I also share dev content on [LinkedIn](https://linkedin.com/in/noufal-ibrahim-93b718147/)
 
 ---
 
@@ -28,6 +29,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -36,7 +38,7 @@
 ### 📌 Featured Projects
 
 - 🧑‍💼 [User Manager App (Riverpod)](https://github.com/Noufalgithub/user_manager_app_riverpod)  
-  A user management app with login/logout, user CRUD, bookmark, and token handling.
+  A user management system with login/logout, user CRUD, bookmarks, token handling, and modern UI.
 
 - 💼 More coming soon...
 
@@ -58,4 +60,4 @@
 
 ---
 
-> Always learning. Always building.
+> “Build with purpose, deliver with passion.”
