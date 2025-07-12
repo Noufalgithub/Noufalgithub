@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Firebase, and Clean Architecture**
 
-- 📫 How to reach me: **noufalibrahim.dev@gmail.com**
+- 📫 How to reach me: **noufalibrahim8598@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/noufal-ibrahim-93b718147/)
 
