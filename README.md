@@ -25,15 +25,51 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
+#### 👨‍💻 Languages
+<p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+#### 📱 Frameworks & Libraries
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-6D4AFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BLoC-5C007B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GetX-363636?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Riverpod-0F9D58?style=for-the-badge"/>
+</p>
+
+#### 🧩 Architecture & Patterns
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0A192F?style=for-the-badge&logo=clean-architecture&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID-F39C12?style=for-the-badge"/>
+</p>
+
+#### 🔌 Backend & Integration
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+#### 💾 Local Storage & State
+<p>
+  <img src="https://img.shields.io/badge/Hive-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GetStorage-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge"/>
+</p>
+
+#### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
