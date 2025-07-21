@@ -38,24 +38,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🧑‍💼 [User Manager App (Riverpod)](https://github.com/Noufalgithub/user_manager_app_riverpod)  
-  A user management system with login/logout, user CRUD, bookmarks, token handling, and modern UI.
-
-- 💼 More coming soon...
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=noufalgithub&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noufalgithub&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 📫 Get In Touch
 
 - ✉️ Email: noufalibrahim8598@gmail.com 
