@@ -58,7 +58,7 @@
 
 ### 📫 Get In Touch
 
-- ✉️ Email: noufalibrahim.dev@gmail.com  
+- ✉️ Email: noufalibrahim8598@gmail.com 
 - 🌐 LinkedIn: [Noufal Ibrahim](https://www.linkedin.com/in/noufal-ibrahim-93b718147/)
 
 ---
